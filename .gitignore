@@ -1,0 +1,14 @@
+# SourceMod compiled plugins
+*.smx
+
+# SourceMod temp files
+*.tmp
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
