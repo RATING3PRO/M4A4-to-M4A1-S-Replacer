@@ -18,7 +18,7 @@
 ## 安装方法
 
 1. 将编译好的 `m4a4_to_m4a1s.smx` 文件上传到服务器的 `csgo/addons/sourcemod/plugins/` 目录。
-2. 重启服务器或在控制台输入 `sm plugins load m4a4_to_m4a1s` 加载插件。
+2. 重启服务器或在控制台输入 `sm plugins load m4a4_to_m4a1s.smx` 加载插件。
 
 ## 配置
 
