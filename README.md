@@ -1,5 +1,7 @@
 # M4A4 to M4A1-S Replacer
 
+您可能更想使用 https://github.com/RATING3PRO/csgo_weapon_replace
+
 这是一个 SourceMod 插件，用于在 CS:GO 服务器中自动将购买的 M4A4 替换为 M4A1-S，并退还差价。
 
 ## 功能
